@@ -5,4 +5,4 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 
 ## 📂 Quick Navigation 
-0001-1000
+[0001-1000](https://github.com/prnv2003/LeetcodeSolutions/tree/main/0001-1000)
