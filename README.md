@@ -1,4 +1,4 @@
-#LeetCode Solutions (Number-wise)
+<h1>LeetCode Solutions (Number-wise) </h1>
 
 This repository contains my solutions to LeetCode problems, organized by problem number.
 
