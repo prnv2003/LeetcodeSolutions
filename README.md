@@ -2,6 +2,7 @@
 
 This repository contains my solutions to LeetCode problems, organized by problem number.
 
-📂 Quick Navigation
 
+
+## 📂 Quick Navigation 
 0001-1000
