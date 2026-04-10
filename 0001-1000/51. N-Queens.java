@@ -6,7 +6,7 @@
 // import java.util.ArrayList;
 import java.util.*;
 
-public class Solution {
+class Solution {
 
     public static boolean isSafe(int row, int col, char[][] board) {
         // Check horizontal left
