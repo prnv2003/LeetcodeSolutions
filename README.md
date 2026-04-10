@@ -6,6 +6,3 @@ Checkout the full walkthrough and solution discussion in Hindi on my YouTube Cha
 
 📂 Quick Navigation
 0001-1000
-1001-2000
-2001-3000
-3001-4000
