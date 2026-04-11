@@ -25,7 +25,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 | #   | Title    | Solution                           |
 | --- | -------- | ---------------------------------- |
-| 1509 | Minimum Difference Between Largest and Smallest Value in Three Moves | [Java](1001-2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves.java) |
+| 1509 | Minimum Difference Between Largest and Smallest Value in Three Moves | [Java](1001-2000/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
