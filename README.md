@@ -47,7 +47,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | 1701  | Average Waiting Time | [Java](1001-2000/1701_Average_Waiting_Time.java) |
 | 1717  | Maximum Score From Removing Substrings | [Java](1001-2000/1717_Maximum_Score_From_Removing_Substrings.java) |
 | 1823  | Find the Winner of the Circular Game | [Java](1001-2000/1823_Find_the_Winner_of_the_Circular_Game.java) |
-| 51  | Minimum Distance to the Target Element | [Java](1001-2000/1848_Minimum_Distance_to_the_Target_Element.java) |
+| 1848  | Minimum Distance to the Target Element | [Java](1001-2000/1848_Minimum_Distance_to_the_Target_Element.java) |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
