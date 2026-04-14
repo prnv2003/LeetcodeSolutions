@@ -35,7 +35,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 | #   | Title    | Solution                           |
 | --- | -------- | ---------------------------------- |
-| 2058  | Find the Minimum and Maximum Number of Nodes Between Critical Points | [Java](2001-3000/2058_Find the Minimum and Maximum Number of Nodes Between Critical Points.java) |
+| 2058  | Find the Minimum and Maximum Number of Nodes Between Critical Points | [Java](2001-3000
+/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
@@ -45,7 +46,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 | #   | Title    | Solution                           |
 | --- | -------- | ---------------------------------- |
-| 3474  | Lexicographically Smallest Generated String | [Java](3001-4000/3474_Lexicographically Smallest Generated String.java) |
+| 3474  | Lexicographically Smallest Generated String | [Java](3001-4000
+/3474_Lexicographically_Smallest_Generated_String.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
