@@ -62,6 +62,9 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | 2069  | Walking Robot Simulation II | [Java](2001-3000/2069_Walking_Robot_Simulation_II.java) |
 | 2075  | Decode the Slanted Ciphertext | [Java](2001-3000/2075_Decode_the_Slanted_Ciphertext.java) |
 | 2181  | Merge Nodes in Between Zeros | [Java](2001-3000/2181_Merge_Nodes_in_Between_Zeros.java) |
+| 2463 | Minimum Total Distance Traveled | [Java](2001-3000/2463_Minimum_Total_Distance_Traveled.java) |
+| 2515 | Shortest Distance to Target String in a Circular Array
+| [Java](2001-3000/2515_Shortest_Distance_to_Target_String_in_a_Circular_Array.java) | 
 | 2573  | Find the String with LCP | [Java](2001-3000/2573_Find_the_String_with_LCP.java) |
 | 2582  | Pass the Pillow | [Java](2001-3000/2582_Pass_the_Pillow.java) |
 | 2839  | Check if Strings Can be Made Equal With Operations I | [Java](2001-3000/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.java) |
@@ -79,6 +82,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | #   | Title    | Solution                           |
 | --- | -------- | ---------------------------------- |
 | 3474  | Lexicographically Smallest Generated String | [Java](3001-4000/3474_Lexicographically_Smallest_Generated_String.java) |
+| 3488 | Closest Equal Element Queries | [Java](3001-4000/3488_Closest_Equal_Element_Queries.java) |
 | 3546  | Equal Sum Grid Partition I | [Java](3001-4000/3546_Equal_Sum_Grid_Partition_I.java) |
 | 3548  | Equal Sum Grid Partition II | [Java](3001-4000/3548_Equal_Sum_Grid_Partition_II.java) |
 | 3653  | XOR After Range Multiplication Queries I | [Java](3001-4000/3653_XOR_After_Range_Multiplication_Queries_I.java) |
