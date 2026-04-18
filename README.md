@@ -89,6 +89,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | 3740  | Minimum Distance Between Three Equal Elements I | [Java](3001-4000/3740_Minimum_Distance_Between_Three_Equal_Elements_I.java) |
 | 3741  | Minimum Distance Between Three Equal Elements II | [Java](3001-4000/3741_Minimum_Distance_Between_Three_Equal_Elements_II.java) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | [Java](3001-4000/3761_Minimum_Absolute_Distance_Between_Mirror_Pairs.java) |
+| 3783 | Mirror Distance of an Integer | [Java](3001-4000/3783_Mirror_Distance_of_an_Integer.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
