@@ -48,7 +48,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | 1717  | Maximum Score From Removing Substrings | [Java](1001-2000/1717_Maximum_Score_From_Removing_Substrings.java) |
 | 1823  | Find the Winner of the Circular Game | [Java](1001-2000/1823_Find_the_Winner_of_the_Circular_Game.java) |
 | 1848  | Minimum Distance to the Target Element | [Java](1001-2000/1848_Minimum_Distance_to_the_Target_Element.java) |
-
+| 1855 | Maximum Distance Between a Pair of Values | [Java](1001-2000/1855_Maximum_Distance_Between_a_Pair_of_Values.java ) | 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
