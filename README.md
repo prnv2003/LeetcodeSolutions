@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | 1598  | Crawler Log Folder | [Java](1001-2000/1598_Crawler_Log_Folder.java) |
 | 1701  | Average Waiting Time | [Java](1001-2000/1701_Average_Waiting_Time.java) |
 | 1717  | Maximum Score From Removing Substrings | [Java](1001-2000/1717_Maximum_Score_From_Removing_Substrings.java) |
+| 1722 | Minimize Hamming Distance After Swap Operations | [Java](1001-2000/1722_Minimize_Hamming_Distance_After_Swap_Operations.java) |
 | 1823  | Find the Winner of the Circular Game | [Java](1001-2000/1823_Find_the_Winner_of_the_Circular_Game.java) |
 | 1848  | Minimum Distance to the Target Element | [Java](1001-2000/1848_Minimum_Distance_to_the_Target_Element.java) |
 | 1855 | Maximum Distance Between a Pair of Values | [Java](1001-2000/1855_Maximum_Distance_Between_a_Pair_of_Values.java ) | 
