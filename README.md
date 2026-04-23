@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | 2515 | Shortest Distance to Target String in a Circular Array | [Java](2001-3000/2515_Shortest_Distance_to_Target_String_in_a_Circular_Array.java) | 
 | 2573  | Find the String with LCP | [Java](2001-3000/2573_Find_the_String_with_LCP.java) |
 | 2582  | Pass the Pillow | [Java](2001-3000/2582_Pass_the_Pillow.java) |
+| 2615 | Sum of Distances | [Java](2001-3000/2615_Sum_of_Distances.java) |
 | 2839  | Check if Strings Can be Made Equal With Operations I | [Java](2001-3000/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.java) |
 | 2840  | Check if Strings Can be Made Equal With Operations II | [Java](2001-3000/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II.java) |
 | 2906  | Construct Product Matrix | [Java](2001-3000/2906_Construct_Product_Matrix.java) |
