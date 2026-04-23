@@ -63,8 +63,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | 2069  | Walking Robot Simulation II | [Java](2001-3000/2069_Walking_Robot_Simulation_II.java) |
 | 2075  | Decode the Slanted Ciphertext | [Java](2001-3000/2075_Decode_the_Slanted_Ciphertext.java) |
 | 2078 | Two Furthest Houses With Different Colors | [Java](2001-3000/2078_Two_Furthest_Houses_With_Different_Colors.java) |
-| 2181  | Merge Nodes in Between Zeros | [Java](2001-3000/2181_Merge_Nodes_in_Between_Zeros.java) |
-|2452 | Words Within Two Edits of Dictionary | [Java](2001-3000/2452_Words_Within_Two_Edits_of_Dictionary.java)
+| 2181 | Merge Nodes in Between Zeros | [Java](2001-3000/2181_Merge_Nodes_in_Between_Zeros.java) |
+| 2452 | Words Within Two Edits of Dictionary | [Java](2001-3000/2452_Words_Within_Two_Edits_of_Dictionary.java)
 | 2463 | Minimum Total Distance Traveled | [Java](2001-3000/2463_Minimum_Total_Distance_Traveled.java) |
 | 2515 | Shortest Distance to Target String in a Circular Array | [Java](2001-3000/2515_Shortest_Distance_to_Target_String_in_a_Circular_Array.java) | 
 | 2573  | Find the String with LCP | [Java](2001-3000/2573_Find_the_String_with_LCP.java) |
