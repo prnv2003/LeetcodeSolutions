@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 | #   | Title    | Solution                           |
 | --- | -------- | ---------------------------------- |
+| 3464 | Maximize the Distance Between Points on a Square | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java) |
 | 3474  | Lexicographically Smallest Generated String | [Java](3001-4000/3474_Lexicographically_Smallest_Generated_String.java) |
 | 3488 | Closest Equal Element Queries | [Java](3001-4000/3488_Closest_Equal_Element_Queries.java) |
 | 3546  | Equal Sum Grid Partition I | [Java](3001-4000/3546_Equal_Sum_Grid_Partition_I.java) |
