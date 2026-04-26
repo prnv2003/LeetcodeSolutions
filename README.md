@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | 1509  | Minimum Difference Between Largest and Smallest Value in Three Moves | [Java](1001-2000/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.java) |
 | 1518  | Water Bottles | [Java](1001-2000/1518_Water_Bottles.java) |
 | 1550  | Three Consecutive Odds | [Java](1001-2000/1550_Three_Consecutive_Odds.java) |
+| 1559 | Detect Cycles in 2D Grid | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java) |
 | 1598  | Crawler Log Folder | [Java](1001-2000/1598_Crawler_Log_Folder.java) |
 | 1701  | Average Waiting Time | [Java](1001-2000/1701_Average_Waiting_Time.java) |
 | 1717  | Maximum Score From Removing Substrings | [Java](1001-2000/1717_Maximum_Score_From_Removing_Substrings.java) |
