@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | --- | -------- | ---------------------------------- |
 | 1190  | Reverse Substrings Between Each Pair of Parentheses | [Java](1001-2000/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.java) |
 | 1320  | 1320. Minimum Distance to Type a Word Using Two Fingers | [Java](1001-2000/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers.java) |
+| 1391 | Check if There is a Valid Path in a Grid | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java) |
 | 1480  | Running Sum of 1d Array | [Java](1001-2000/1480_Running_Sum_of_1d_Array.java) |
 | 1509  | Minimum Difference Between Largest and Smallest Value in Three Moves | [Java](1001-2000/1509_Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.java) |
 | 1518  | Water Bottles | [Java](1001-2000/1518_Water_Bottles.java) |
