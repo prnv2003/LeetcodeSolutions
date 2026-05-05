@@ -61,6 +61,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 | #   | Title    | Solution                           |
 | --- | -------- | ---------------------------------- |
+| 2033 | Minimum Operations to Make a Uni-Value Grid | [Java](2001-3000/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.java) |
 | 2058  | Find the Minimum and Maximum Number of Nodes Between Critical Points | [Java](2001-3000/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.java) |
 | 2069  | Walking Robot Simulation II | [Java](2001-3000/2069_Walking_Robot_Simulation_II.java) |
 | 2075  | Decode the Slanted Ciphertext | [Java](2001-3000/2075_Decode_the_Slanted_Ciphertext.java) |
@@ -87,6 +88,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 | #   | Title    | Solution                           |
 | --- | -------- | ---------------------------------- |
+| 3225 | Maximum Score From Grid Operations | [Java](3001-4000/3225_Maximum%20_Score_From_Grid_Operations.java) |
 | 3464 | Maximize the Distance Between Points on a Square | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java) |
 | 3474  | Lexicographically Smallest Generated String | [Java](3001-4000/3474_Lexicographically_Smallest_Generated_String.java) |
 | 3488 | Closest Equal Element Queries | [Java](3001-4000/3488_Closest_Equal_Element_Queries.java) |
